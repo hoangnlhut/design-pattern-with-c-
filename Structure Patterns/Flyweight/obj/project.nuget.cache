@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rzhViRo7DbAzVx+V/vo7nyGvR7mB5wSoLGAqsy3MXq4ze1MdnYIbbxvv9rq6jBLrVz/jah86edrL0KQZT4gMlQ==",
+  "success": true,
+  "projectFilePath": "E:\\LEARNING\\SELF_TRAINING_FOLDER\\.netcsharp_github\\design-pattern-with-c-\\Structure Patterns\\Flyweight\\Flyweight.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hoang\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

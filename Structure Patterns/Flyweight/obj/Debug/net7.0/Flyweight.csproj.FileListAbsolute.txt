@@ -1,0 +1,17 @@
+E:\LEARNING\SELF_TRAINING_FOLDER\.NET\DESIGNPATTERALL\Structure Patterns\Flyweight\bin\Debug\net7.0\Flyweight.exe
+E:\LEARNING\SELF_TRAINING_FOLDER\.NET\DESIGNPATTERALL\Structure Patterns\Flyweight\bin\Debug\net7.0\Flyweight.deps.json
+E:\LEARNING\SELF_TRAINING_FOLDER\.NET\DESIGNPATTERALL\Structure Patterns\Flyweight\bin\Debug\net7.0\Flyweight.runtimeconfig.json
+E:\LEARNING\SELF_TRAINING_FOLDER\.NET\DESIGNPATTERALL\Structure Patterns\Flyweight\bin\Debug\net7.0\Flyweight.dll
+E:\LEARNING\SELF_TRAINING_FOLDER\.NET\DESIGNPATTERALL\Structure Patterns\Flyweight\bin\Debug\net7.0\Flyweight.pdb
+E:\LEARNING\SELF_TRAINING_FOLDER\.NET\DESIGNPATTERALL\Structure Patterns\Flyweight\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\LEARNING\SELF_TRAINING_FOLDER\.NET\DESIGNPATTERALL\Structure Patterns\Flyweight\obj\Debug\net7.0\Flyweight.csproj.AssemblyReference.cache
+E:\LEARNING\SELF_TRAINING_FOLDER\.NET\DESIGNPATTERALL\Structure Patterns\Flyweight\obj\Debug\net7.0\Flyweight.GeneratedMSBuildEditorConfig.editorconfig
+E:\LEARNING\SELF_TRAINING_FOLDER\.NET\DESIGNPATTERALL\Structure Patterns\Flyweight\obj\Debug\net7.0\Flyweight.AssemblyInfoInputs.cache
+E:\LEARNING\SELF_TRAINING_FOLDER\.NET\DESIGNPATTERALL\Structure Patterns\Flyweight\obj\Debug\net7.0\Flyweight.AssemblyInfo.cs
+E:\LEARNING\SELF_TRAINING_FOLDER\.NET\DESIGNPATTERALL\Structure Patterns\Flyweight\obj\Debug\net7.0\Flyweight.csproj.CoreCompileInputs.cache
+E:\LEARNING\SELF_TRAINING_FOLDER\.NET\DESIGNPATTERALL\Structure Patterns\Flyweight\obj\Debug\net7.0\Flyweight.csproj.CopyComplete
+E:\LEARNING\SELF_TRAINING_FOLDER\.NET\DESIGNPATTERALL\Structure Patterns\Flyweight\obj\Debug\net7.0\Flyweight.dll
+E:\LEARNING\SELF_TRAINING_FOLDER\.NET\DESIGNPATTERALL\Structure Patterns\Flyweight\obj\Debug\net7.0\refint\Flyweight.dll
+E:\LEARNING\SELF_TRAINING_FOLDER\.NET\DESIGNPATTERALL\Structure Patterns\Flyweight\obj\Debug\net7.0\Flyweight.pdb
+E:\LEARNING\SELF_TRAINING_FOLDER\.NET\DESIGNPATTERALL\Structure Patterns\Flyweight\obj\Debug\net7.0\Flyweight.genruntimeconfig.cache
+E:\LEARNING\SELF_TRAINING_FOLDER\.NET\DESIGNPATTERALL\Structure Patterns\Flyweight\obj\Debug\net7.0\ref\Flyweight.dll

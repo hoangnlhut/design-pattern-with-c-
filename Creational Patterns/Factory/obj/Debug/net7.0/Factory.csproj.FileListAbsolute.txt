@@ -1,0 +1,15 @@
+E:\LEARNING\SELF_TRAINING_FOLDER\.NET\DESIGNPATTERALL\Creational Patterns\Factory\bin\Debug\net7.0\Factory.exe
+E:\LEARNING\SELF_TRAINING_FOLDER\.NET\DESIGNPATTERALL\Creational Patterns\Factory\bin\Debug\net7.0\Factory.deps.json
+E:\LEARNING\SELF_TRAINING_FOLDER\.NET\DESIGNPATTERALL\Creational Patterns\Factory\bin\Debug\net7.0\Factory.runtimeconfig.json
+E:\LEARNING\SELF_TRAINING_FOLDER\.NET\DESIGNPATTERALL\Creational Patterns\Factory\bin\Debug\net7.0\Factory.dll
+E:\LEARNING\SELF_TRAINING_FOLDER\.NET\DESIGNPATTERALL\Creational Patterns\Factory\bin\Debug\net7.0\Factory.pdb
+E:\LEARNING\SELF_TRAINING_FOLDER\.NET\DESIGNPATTERALL\Creational Patterns\Factory\obj\Debug\net7.0\Factory.csproj.AssemblyReference.cache
+E:\LEARNING\SELF_TRAINING_FOLDER\.NET\DESIGNPATTERALL\Creational Patterns\Factory\obj\Debug\net7.0\Factory.GeneratedMSBuildEditorConfig.editorconfig
+E:\LEARNING\SELF_TRAINING_FOLDER\.NET\DESIGNPATTERALL\Creational Patterns\Factory\obj\Debug\net7.0\Factory.AssemblyInfoInputs.cache
+E:\LEARNING\SELF_TRAINING_FOLDER\.NET\DESIGNPATTERALL\Creational Patterns\Factory\obj\Debug\net7.0\Factory.AssemblyInfo.cs
+E:\LEARNING\SELF_TRAINING_FOLDER\.NET\DESIGNPATTERALL\Creational Patterns\Factory\obj\Debug\net7.0\Factory.csproj.CoreCompileInputs.cache
+E:\LEARNING\SELF_TRAINING_FOLDER\.NET\DESIGNPATTERALL\Creational Patterns\Factory\obj\Debug\net7.0\Factory.dll
+E:\LEARNING\SELF_TRAINING_FOLDER\.NET\DESIGNPATTERALL\Creational Patterns\Factory\obj\Debug\net7.0\refint\Factory.dll
+E:\LEARNING\SELF_TRAINING_FOLDER\.NET\DESIGNPATTERALL\Creational Patterns\Factory\obj\Debug\net7.0\Factory.pdb
+E:\LEARNING\SELF_TRAINING_FOLDER\.NET\DESIGNPATTERALL\Creational Patterns\Factory\obj\Debug\net7.0\Factory.genruntimeconfig.cache
+E:\LEARNING\SELF_TRAINING_FOLDER\.NET\DESIGNPATTERALL\Creational Patterns\Factory\obj\Debug\net7.0\ref\Factory.dll

@@ -1,0 +1,15 @@
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\DPAll\bin\Debug\net7.0\DPAll.exe
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\DPAll\bin\Debug\net7.0\DPAll.deps.json
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\DPAll\bin\Debug\net7.0\DPAll.runtimeconfig.json
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\DPAll\bin\Debug\net7.0\DPAll.dll
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\DPAll\bin\Debug\net7.0\DPAll.pdb
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\DPAll\obj\Debug\net7.0\DPAll.csproj.AssemblyReference.cache
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\DPAll\obj\Debug\net7.0\DPAll.GeneratedMSBuildEditorConfig.editorconfig
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\DPAll\obj\Debug\net7.0\DPAll.AssemblyInfoInputs.cache
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\DPAll\obj\Debug\net7.0\DPAll.AssemblyInfo.cs
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\DPAll\obj\Debug\net7.0\DPAll.csproj.CoreCompileInputs.cache
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\DPAll\obj\Debug\net7.0\DPAll.dll
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\DPAll\obj\Debug\net7.0\refint\DPAll.dll
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\DPAll\obj\Debug\net7.0\DPAll.pdb
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\DPAll\obj\Debug\net7.0\DPAll.genruntimeconfig.cache
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\DPAll\obj\Debug\net7.0\ref\DPAll.dll

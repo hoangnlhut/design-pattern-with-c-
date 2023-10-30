@@ -7,20 +7,20 @@
         public abstract class FileService
         {
             public string FileName { get; set; }
-            public int Size { get; set; }
+            public long Size { get; set; }
 
-            public abstract int GetSize();
+            public abstract long GetSize();
 
         }
 
         public class File : FileService
         {
-            public File(string name, int size)
+            public File(string name, long size)
             {
                 FileName = name;
                 Size = size;
             }
-            public override int GetSize()
+            public override long GetSize()
             {
                 return Size;
             }
@@ -28,7 +28,7 @@
 
         public class Folder : FileService
         {
-            public Folder(string name, int size)
+            public Folder(string name, long size)
             {
                 FileName = name;
                 Size = size;
@@ -46,9 +46,9 @@
                 listFileService.Remove(file);
             }
 
-            public override int GetSize()
+            public override long GetSize()
             {
-                int size = Size;
+                long size = Size;
                 foreach (FileService file in listFileService)
                 {
                     var getSize = file.GetSize();

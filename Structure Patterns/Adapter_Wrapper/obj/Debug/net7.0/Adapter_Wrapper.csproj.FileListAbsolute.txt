@@ -1,0 +1,15 @@
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Structure Patterns\Adapter_Wrapper\bin\Debug\net7.0\Adapter_Wrapper.exe
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Structure Patterns\Adapter_Wrapper\bin\Debug\net7.0\Adapter_Wrapper.deps.json
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Structure Patterns\Adapter_Wrapper\bin\Debug\net7.0\Adapter_Wrapper.runtimeconfig.json
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Structure Patterns\Adapter_Wrapper\bin\Debug\net7.0\Adapter_Wrapper.dll
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Structure Patterns\Adapter_Wrapper\bin\Debug\net7.0\Adapter_Wrapper.pdb
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Structure Patterns\Adapter_Wrapper\obj\Debug\net7.0\Adapter_Wrapper.csproj.AssemblyReference.cache
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Structure Patterns\Adapter_Wrapper\obj\Debug\net7.0\Adapter_Wrapper.GeneratedMSBuildEditorConfig.editorconfig
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Structure Patterns\Adapter_Wrapper\obj\Debug\net7.0\Adapter_Wrapper.AssemblyInfoInputs.cache
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Structure Patterns\Adapter_Wrapper\obj\Debug\net7.0\Adapter_Wrapper.AssemblyInfo.cs
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Structure Patterns\Adapter_Wrapper\obj\Debug\net7.0\Adapter_Wrapper.csproj.CoreCompileInputs.cache
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Structure Patterns\Adapter_Wrapper\obj\Debug\net7.0\Adapter_Wrapper.dll
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Structure Patterns\Adapter_Wrapper\obj\Debug\net7.0\refint\Adapter_Wrapper.dll
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Structure Patterns\Adapter_Wrapper\obj\Debug\net7.0\Adapter_Wrapper.pdb
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Structure Patterns\Adapter_Wrapper\obj\Debug\net7.0\Adapter_Wrapper.genruntimeconfig.cache
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Structure Patterns\Adapter_Wrapper\obj\Debug\net7.0\ref\Adapter_Wrapper.dll

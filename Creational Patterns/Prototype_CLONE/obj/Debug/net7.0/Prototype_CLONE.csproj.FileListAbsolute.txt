@@ -1,0 +1,15 @@
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Creational Patterns\Prototype_CLONE\obj\Debug\net7.0\Prototype_CLONE.csproj.AssemblyReference.cache
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Creational Patterns\Prototype_CLONE\obj\Debug\net7.0\Prototype_CLONE.GeneratedMSBuildEditorConfig.editorconfig
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Creational Patterns\Prototype_CLONE\obj\Debug\net7.0\Prototype_CLONE.AssemblyInfoInputs.cache
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Creational Patterns\Prototype_CLONE\obj\Debug\net7.0\Prototype_CLONE.AssemblyInfo.cs
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Creational Patterns\Prototype_CLONE\obj\Debug\net7.0\Prototype_CLONE.csproj.CoreCompileInputs.cache
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Creational Patterns\Prototype_CLONE\bin\Debug\net7.0\Prototype_CLONE.exe
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Creational Patterns\Prototype_CLONE\bin\Debug\net7.0\Prototype_CLONE.deps.json
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Creational Patterns\Prototype_CLONE\bin\Debug\net7.0\Prototype_CLONE.runtimeconfig.json
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Creational Patterns\Prototype_CLONE\bin\Debug\net7.0\Prototype_CLONE.dll
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Creational Patterns\Prototype_CLONE\bin\Debug\net7.0\Prototype_CLONE.pdb
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Creational Patterns\Prototype_CLONE\obj\Debug\net7.0\Prototype_CLONE.dll
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Creational Patterns\Prototype_CLONE\obj\Debug\net7.0\refint\Prototype_CLONE.dll
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Creational Patterns\Prototype_CLONE\obj\Debug\net7.0\Prototype_CLONE.pdb
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Creational Patterns\Prototype_CLONE\obj\Debug\net7.0\Prototype_CLONE.genruntimeconfig.cache
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Creational Patterns\Prototype_CLONE\obj\Debug\net7.0\ref\Prototype_CLONE.dll

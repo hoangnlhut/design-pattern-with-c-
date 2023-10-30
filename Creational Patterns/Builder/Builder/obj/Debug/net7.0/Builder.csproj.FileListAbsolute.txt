@@ -1,0 +1,15 @@
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Creational Patterns\Builder\Builder\obj\Debug\net7.0\Builder.csproj.AssemblyReference.cache
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Creational Patterns\Builder\Builder\obj\Debug\net7.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Creational Patterns\Builder\Builder\obj\Debug\net7.0\Builder.AssemblyInfoInputs.cache
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Creational Patterns\Builder\Builder\obj\Debug\net7.0\Builder.AssemblyInfo.cs
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Creational Patterns\Builder\Builder\obj\Debug\net7.0\Builder.csproj.CoreCompileInputs.cache
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Creational Patterns\Builder\Builder\bin\Debug\net7.0\Builder.exe
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Creational Patterns\Builder\Builder\bin\Debug\net7.0\Builder.deps.json
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Creational Patterns\Builder\Builder\bin\Debug\net7.0\Builder.runtimeconfig.json
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Creational Patterns\Builder\Builder\bin\Debug\net7.0\Builder.dll
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Creational Patterns\Builder\Builder\bin\Debug\net7.0\Builder.pdb
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Creational Patterns\Builder\Builder\obj\Debug\net7.0\Builder.dll
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Creational Patterns\Builder\Builder\obj\Debug\net7.0\refint\Builder.dll
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Creational Patterns\Builder\Builder\obj\Debug\net7.0\Builder.pdb
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Creational Patterns\Builder\Builder\obj\Debug\net7.0\Builder.genruntimeconfig.cache
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Creational Patterns\Builder\Builder\obj\Debug\net7.0\ref\Builder.dll

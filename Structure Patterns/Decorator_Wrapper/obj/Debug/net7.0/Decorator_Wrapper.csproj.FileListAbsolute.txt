@@ -1,0 +1,15 @@
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Structure Patterns\Decorator_Wrapper\bin\Debug\net7.0\Decorator_Wrapper.exe
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Structure Patterns\Decorator_Wrapper\bin\Debug\net7.0\Decorator_Wrapper.deps.json
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Structure Patterns\Decorator_Wrapper\bin\Debug\net7.0\Decorator_Wrapper.runtimeconfig.json
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Structure Patterns\Decorator_Wrapper\bin\Debug\net7.0\Decorator_Wrapper.dll
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Structure Patterns\Decorator_Wrapper\bin\Debug\net7.0\Decorator_Wrapper.pdb
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Structure Patterns\Decorator_Wrapper\obj\Debug\net7.0\Decorator_Wrapper.csproj.AssemblyReference.cache
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Structure Patterns\Decorator_Wrapper\obj\Debug\net7.0\Decorator_Wrapper.GeneratedMSBuildEditorConfig.editorconfig
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Structure Patterns\Decorator_Wrapper\obj\Debug\net7.0\Decorator_Wrapper.AssemblyInfoInputs.cache
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Structure Patterns\Decorator_Wrapper\obj\Debug\net7.0\Decorator_Wrapper.AssemblyInfo.cs
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Structure Patterns\Decorator_Wrapper\obj\Debug\net7.0\Decorator_Wrapper.csproj.CoreCompileInputs.cache
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Structure Patterns\Decorator_Wrapper\obj\Debug\net7.0\Decorator_Wrapper.dll
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Structure Patterns\Decorator_Wrapper\obj\Debug\net7.0\refint\Decorator_Wrapper.dll
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Structure Patterns\Decorator_Wrapper\obj\Debug\net7.0\Decorator_Wrapper.pdb
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Structure Patterns\Decorator_Wrapper\obj\Debug\net7.0\Decorator_Wrapper.genruntimeconfig.cache
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Structure Patterns\Decorator_Wrapper\obj\Debug\net7.0\ref\Decorator_Wrapper.dll

@@ -1,0 +1,15 @@
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Structure Patterns\Facade\bin\Debug\net7.0\Facade.exe
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Structure Patterns\Facade\bin\Debug\net7.0\Facade.deps.json
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Structure Patterns\Facade\bin\Debug\net7.0\Facade.runtimeconfig.json
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Structure Patterns\Facade\bin\Debug\net7.0\Facade.dll
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Structure Patterns\Facade\bin\Debug\net7.0\Facade.pdb
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Structure Patterns\Facade\obj\Debug\net7.0\Facade.csproj.AssemblyReference.cache
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Structure Patterns\Facade\obj\Debug\net7.0\Facade.GeneratedMSBuildEditorConfig.editorconfig
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Structure Patterns\Facade\obj\Debug\net7.0\Facade.AssemblyInfoInputs.cache
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Structure Patterns\Facade\obj\Debug\net7.0\Facade.AssemblyInfo.cs
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Structure Patterns\Facade\obj\Debug\net7.0\Facade.csproj.CoreCompileInputs.cache
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Structure Patterns\Facade\obj\Debug\net7.0\Facade.dll
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Structure Patterns\Facade\obj\Debug\net7.0\refint\Facade.dll
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Structure Patterns\Facade\obj\Debug\net7.0\Facade.pdb
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Structure Patterns\Facade\obj\Debug\net7.0\Facade.genruntimeconfig.cache
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Structure Patterns\Facade\obj\Debug\net7.0\ref\Facade.dll

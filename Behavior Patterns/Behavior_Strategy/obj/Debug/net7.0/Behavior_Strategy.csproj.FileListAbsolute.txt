@@ -13,3 +13,18 @@ E:\LEARNING\SELF_TRAINING_FOLDER\.NET\DESIGNPATTERALL\Behavior_Strategy\obj\Debu
 E:\LEARNING\SELF_TRAINING_FOLDER\.NET\DESIGNPATTERALL\Behavior_Strategy\obj\Debug\net7.0\Behavior_Strategy.pdb
 E:\LEARNING\SELF_TRAINING_FOLDER\.NET\DESIGNPATTERALL\Behavior_Strategy\obj\Debug\net7.0\Behavior_Strategy.genruntimeconfig.cache
 E:\LEARNING\SELF_TRAINING_FOLDER\.NET\DESIGNPATTERALL\Behavior_Strategy\obj\Debug\net7.0\ref\Behavior_Strategy.dll
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Behavior Patterns\Behavior_Strategy\bin\Debug\net7.0\Behavior_Strategy.exe
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Behavior Patterns\Behavior_Strategy\bin\Debug\net7.0\Behavior_Strategy.deps.json
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Behavior Patterns\Behavior_Strategy\bin\Debug\net7.0\Behavior_Strategy.runtimeconfig.json
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Behavior Patterns\Behavior_Strategy\bin\Debug\net7.0\Behavior_Strategy.dll
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Behavior Patterns\Behavior_Strategy\bin\Debug\net7.0\Behavior_Strategy.pdb
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Behavior Patterns\Behavior_Strategy\obj\Debug\net7.0\Behavior_Strategy.csproj.AssemblyReference.cache
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Behavior Patterns\Behavior_Strategy\obj\Debug\net7.0\Behavior_Strategy.GeneratedMSBuildEditorConfig.editorconfig
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Behavior Patterns\Behavior_Strategy\obj\Debug\net7.0\Behavior_Strategy.AssemblyInfoInputs.cache
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Behavior Patterns\Behavior_Strategy\obj\Debug\net7.0\Behavior_Strategy.AssemblyInfo.cs
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Behavior Patterns\Behavior_Strategy\obj\Debug\net7.0\Behavior_Strategy.csproj.CoreCompileInputs.cache
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Behavior Patterns\Behavior_Strategy\obj\Debug\net7.0\Behavior_Strategy.dll
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Behavior Patterns\Behavior_Strategy\obj\Debug\net7.0\refint\Behavior_Strategy.dll
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Behavior Patterns\Behavior_Strategy\obj\Debug\net7.0\Behavior_Strategy.pdb
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Behavior Patterns\Behavior_Strategy\obj\Debug\net7.0\Behavior_Strategy.genruntimeconfig.cache
+E:\LEARNING\SELF_TRAINING_FOLDER\.netcsharp_github\design-pattern-with-c-\Behavior Patterns\Behavior_Strategy\obj\Debug\net7.0\ref\Behavior_Strategy.dll

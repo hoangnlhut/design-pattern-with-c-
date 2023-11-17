@@ -154,7 +154,7 @@
         }
 
         public abstract string Cancel();
-        public abstract string Paid();
+        public abstract string Paid();  
         public abstract string Deliverd();
         public abstract string Finish();
 

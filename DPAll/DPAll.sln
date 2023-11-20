@@ -41,11 +41,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Command", "..\Behavior Patt
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Iterator", "..\Behavior Patterns\Iterator\Iterator.csproj", "{561A16C5-7F52-4B39-9C4F-38E19F6CAAF6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer", "..\Behavior Patterns\Observer\Observer.csproj", "{6A076C96-3F12-4356-AEE4-2940B82587D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Observer", "..\Behavior Patterns\Observer\Observer.csproj", "{6A076C96-3F12-4356-AEE4-2940B82587D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "State", "..\Behavior Patterns\State\State.csproj", "{4F2DCBF3-20B3-499E-B22D-1DF98822EEC5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "State", "..\Behavior Patterns\State\State.csproj", "{4F2DCBF3-20B3-499E-B22D-1DF98822EEC5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Template_Method", "..\Behavior Patterns\Template_Method\Template_Method.csproj", "{80EC7BA9-02B1-490D-AE64-B35A4DAB30AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Template_Method", "..\Behavior Patterns\Template_Method\Template_Method.csproj", "{80EC7BA9-02B1-490D-AE64-B35A4DAB30AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibilities", "..\Behavior Patterns\ChainOfResponsibilities\ChainOfResponsibilities.csproj", "{C0446BFF-8C85-4AA3-95AA-755F1EE94515}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +131,10 @@ Global
 		{80EC7BA9-02B1-490D-AE64-B35A4DAB30AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80EC7BA9-02B1-490D-AE64-B35A4DAB30AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80EC7BA9-02B1-490D-AE64-B35A4DAB30AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0446BFF-8C85-4AA3-95AA-755F1EE94515}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0446BFF-8C85-4AA3-95AA-755F1EE94515}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0446BFF-8C85-4AA3-95AA-755F1EE94515}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0446BFF-8C85-4AA3-95AA-755F1EE94515}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -152,6 +158,7 @@ Global
 		{6A076C96-3F12-4356-AEE4-2940B82587D4} = {866D5AED-EC51-44D9-9A93-74E55B705ACA}
 		{4F2DCBF3-20B3-499E-B22D-1DF98822EEC5} = {866D5AED-EC51-44D9-9A93-74E55B705ACA}
 		{80EC7BA9-02B1-490D-AE64-B35A4DAB30AB} = {866D5AED-EC51-44D9-9A93-74E55B705ACA}
+		{C0446BFF-8C85-4AA3-95AA-755F1EE94515} = {866D5AED-EC51-44D9-9A93-74E55B705ACA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {64F5C221-5A52-4B5C-9656-69CD43AEF9E4}

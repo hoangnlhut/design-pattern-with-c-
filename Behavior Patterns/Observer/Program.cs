@@ -130,11 +130,7 @@
     /// <summary>
     /// Interface subcriber
     /// </summary>
-    public interface ICustomerSubcriber
-    {
-        void update(ICompanyPublisher iCompanyPublisher);
-    }
-
+   
     /// <summary>
     /// interface of publisher
     /// </summary>
@@ -184,6 +180,12 @@
             Notify();
         }
     }
+
+    public interface ICustomerSubcriber
+    {
+        void update(ICompanyPublisher iCompanyPublisher);
+    }
+
 
     /// <summary>
     /// Concreate Subcriber of Hoang

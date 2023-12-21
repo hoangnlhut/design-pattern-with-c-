@@ -57,7 +57,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Visitor", "..\Behavior Patt
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Other Pattern", "Other Pattern", "{73C95599-CF98-48E1-9382-BCF00A7C5AE6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullObject", "..\Other Pattern\NullObject\NullObject.csproj", "{389B7194-C872-4DB5-A358-7D3EF466DB2D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NullObject", "..\Other Pattern\NullObject\NullObject.csproj", "{389B7194-C872-4DB5-A358-7D3EF466DB2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LazyLoad", "..\Other Pattern\LazyLoad\LazyLoad.csproj", "{17C78194-C924-43FB-A448-D15F030CBCF5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -161,6 +163,10 @@ Global
 		{389B7194-C872-4DB5-A358-7D3EF466DB2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{389B7194-C872-4DB5-A358-7D3EF466DB2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{389B7194-C872-4DB5-A358-7D3EF466DB2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17C78194-C924-43FB-A448-D15F030CBCF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17C78194-C924-43FB-A448-D15F030CBCF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17C78194-C924-43FB-A448-D15F030CBCF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17C78194-C924-43FB-A448-D15F030CBCF5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -189,6 +195,7 @@ Global
 		{4A035F32-DE05-41DA-8C53-85D9E1E06488} = {866D5AED-EC51-44D9-9A93-74E55B705ACA}
 		{2CA6C42A-09F9-4D3B-9F4C-5FF78CE8C552} = {866D5AED-EC51-44D9-9A93-74E55B705ACA}
 		{389B7194-C872-4DB5-A358-7D3EF466DB2D} = {73C95599-CF98-48E1-9382-BCF00A7C5AE6}
+		{17C78194-C924-43FB-A448-D15F030CBCF5} = {73C95599-CF98-48E1-9382-BCF00A7C5AE6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {64F5C221-5A52-4B5C-9656-69CD43AEF9E4}

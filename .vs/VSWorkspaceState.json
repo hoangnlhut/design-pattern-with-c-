@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Other Pattern",
+    "\\Other Pattern\\LazyLoad",
+    "\\Other Pattern\\LazyLoad\\ValueHolder",
+    "\\Other Pattern\\LazyLoad\\VirtualProxy"
+  ],
+  "SelectedNode": "\\Other Pattern\\LazyLoad\\ValueHolder\\OrderVH.cs",
+  "PreviewInSolutionExplorer": true
+}

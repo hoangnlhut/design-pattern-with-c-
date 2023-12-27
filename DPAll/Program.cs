@@ -4,61 +4,121 @@
     {
 
         #region Viết lại design pattern composite (Object Tree)
-        public abstract class FileService
-        {
-            public string FileName { get; set; }
-            public long Size { get; set; }
+        //public abstract class FileService
+        //{
+        //    public string FileName { get; set; }
+        //    public long Size { get; set; }
 
-            public abstract long GetSize();
+        //    public abstract long GetSize();
 
-        }
+        //}
 
-        public class File : FileService
-        {
-            public File(string name, long size)
-            {
-                FileName = name;
-                Size = size;
-            }
-            public override long GetSize()
-            {
-                return Size;
-            }
-        }
+        //public class File : FileService
+        //{
+        //    public File(string name, long size)
+        //    {
+        //        FileName = name;
+        //        Size = size;
+        //    }
+        //    public override long GetSize()
+        //    {
+        //        return Size;
+        //    }
+        //}
 
-        public class Folder : FileService
-        {
-            public Folder(string name, long size)
-            {
-                FileName = name;
-                Size = size;
-            }
+        //public class Folder : FileService
+        //{
+        //    public Folder(string name, long size)
+        //    {
+        //        FileName = name;
+        //        Size = size;
+        //    }
 
-            public List<FileService> listFileService { get; set; } = new List<FileService>();
+        //    public List<FileService> listFileService { get; set; } = new List<FileService>();
 
-            public void AddFile(FileService file)
-            {
-                listFileService.Add(file);
-            }
+        //    public void AddFile(FileService file)
+        //    {
+        //        listFileService.Add(file);
+        //    }
 
-            public void RemoveFile(FileService file)
-            {
-                listFileService.Remove(file);
-            }
+        //    public void RemoveFile(FileService file)
+        //    {
+        //        listFileService.Remove(file);
+        //    }
 
-            public override long GetSize()
-            {
-                long size = Size;
-                foreach (FileService file in listFileService)
-                {
-                    var getSize = file.GetSize();
-                    size += getSize;
-                }
-                return size;
-            }
-        }
+        //    public override long GetSize()
+        //    {
+        //        long size = Size;
+        //        foreach (FileService file in listFileService)
+        //        {
+        //            var getSize = file.GetSize();
+        //            size += getSize;
+        //        }
+        //        return size;
+        //    }
+        //}
         #endregion
 
+
+        #region practice for Factory Method Pattern
+        
+        public abstract class SaleService
+        {
+            public abstract int PercentageSale { get;  }
+        }
+
+        public class CountrySaleService : SaleService {
+            private readonly string country;
+
+            public CountrySaleService(string countryCode)
+            {
+                this.country = countryCode;
+            }
+
+            public override int PercentageSale
+            {
+                get
+                {
+                    if (country == "us")  return 10; 
+                    else if (country == "uk") return 20;
+                    else return 5;
+                }
+            }
+        }
+
+        public class LoyaltyCustomerSaleService : SaleService
+        {
+            public override int PercentageSale => 50;
+        }
+
+        public abstract class DiscountFactory
+        {
+            public abstract SaleService CreateDiscountService();
+        }
+
+        public class CountrySaleFactory : DiscountFactory { 
+        
+            private readonly string country;
+            public CountrySaleFactory(string countryInput)
+            {
+                this.country =countryInput;
+            }
+
+            public override SaleService CreateDiscountService()
+            {
+                return new CountrySaleService(country);
+            }
+        }
+
+        public class LoyalSaleFactory : DiscountFactory
+        {
+            public override SaleService CreateDiscountService()
+            {
+                return new LoyaltyCustomerSaleService();
+            }
+        }
+
+        #endregion
         static void Main(string[] args)
         {
             #region using Composite Pattern
@@ -83,6 +143,20 @@
             //Console.WriteLine($"Size of Folder 2: {folder2.GetSize()}");
             #endregion
 
+
+            #region using Factory Method pattern
+            List<DiscountFactory> discs = new List<DiscountFactory>()
+            {
+                new CountrySaleFactory("uk"),
+                   new LoyalSaleFactory()
+            };
+
+            foreach (var item in discs)
+            {
+                var eachService = item.CreateDiscountService();
+                Console.WriteLine($"Percentage sale is {eachService.PercentageSale} coming from service {(eachService)}");
+            }
+            #endregion
         }
     }
 }

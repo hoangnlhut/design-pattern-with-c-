@@ -19,5 +19,7 @@ namespace LazyLoad.VirtualProxy
         {
             return Id.GetHashCode();
         }
+
+
     }
 }
